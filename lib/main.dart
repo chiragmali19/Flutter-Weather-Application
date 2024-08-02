@@ -163,6 +163,7 @@ class _HomePageState extends State<HomePage> {
     final temperature = _weatherData!['temperature']?.toString() ?? 'N/A';
     final condition = _weatherData!['condition'] ?? 'N/A';
     final windSpeed = _weatherData!['wind_speed']?.toString() ?? 'N/A';
+
     final rain = _weatherData!['rain']?.toString() ?? '0';
 
     return SingleChildScrollView(
