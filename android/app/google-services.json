@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366599415321",
+    "project_id": "travel-weather-app-48f4f",
+    "storage_bucket": "travel-weather-app-48f4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366599415321:android:27491bfa90f262ee3aac88",
+        "android_client_info": {
+          "package_name": "com.example.travel_weather_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAexsJ-la2gg4qiwJ3nL8AH9MQ5ROWaDfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
