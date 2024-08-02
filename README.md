@@ -11,9 +11,10 @@ The Flutter Weather App allows users to search for weather information for speci
 - **Custom Fonts and Icons:** Uses Google Fonts and FontAwesome icons for an enhanced UI.
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/05d6c185-5138-4b3f-894c-37c46068bfa8" alt="1st" width="250"/>
-<img src="https://github.com/user-attachments/assets/c7ba9d95-e718-4e8f-a53e-cf8fd5d027b4" alt="2nd" width="250"/>
-<img src="https://github.com/user-attachments/assets/d8ea676b-de73-4a83-8dff-ec76203063c3" alt="3rd" width="250"/>
+
+<img src="https://github.com/user-attachments/assets/e3a20daa-ff12-4152-8b88-fcf466ee6c19" alt="1st Screenshot" width="250"/>
+<img src="https://github.com/user-attachments/assets/0de68b3d-f576-4c89-8bfe-1b9e829376ad" alt="2nd Screenshot" width="250"/>
+<img src="https://github.com/user-attachments/assets/5065de4c-75b8-4aa0-87bd-ceaecae5a369" alt="3rd Screenshot" width="250"/>
 
 ## Getting Started
 
