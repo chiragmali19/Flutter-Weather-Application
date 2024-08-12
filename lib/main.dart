@@ -53,8 +53,8 @@ class _HomePageState extends State<HomePage> {
         _dailyWeatherData = dailyWeatherData['daily'];
       });
     } catch (e) {
-      print(e);
-      // Handle the error (e.g., show a message to the user)
+      print(
+          "Enter city name with state"); // Handle the error (e.g., show a message to the user)
     }
   }
 
