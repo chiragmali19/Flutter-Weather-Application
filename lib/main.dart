@@ -54,7 +54,8 @@ class _HomePageState extends State<HomePage> {
       });
     } catch (e) {
       print(
-          "Enter city name with state"); // Handle the error (e.g., show a message to the user)
+          "Enter city name with state");        
+            // Handle the error (e.g., show a message to the user)
     }
   }
 
